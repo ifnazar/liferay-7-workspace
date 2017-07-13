@@ -1,0 +1,3 @@
+Bundle-Name: hello
+Bundle-SymbolicName: nif.demo
+Bundle-Version: 1.0.0
