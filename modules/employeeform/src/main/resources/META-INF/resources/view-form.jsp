@@ -2,7 +2,6 @@
 
 <portlet:actionURL name="newEmployee" var="actionNewEmployee" />
 
-<h4>Employee Form</h4>
 <br />
 
 <form action="${actionNewEmployee}" method="Post">
